@@ -1,1 +1,1 @@
-Patched ranges for utility coefficients.
+Patched numeric types for number_input defaults.
