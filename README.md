@@ -1,1 +1,1 @@
-Use streamlit_app_advanced.py for full P&L/BS/CF with AR policy, card settlement lag, and OPEX.
+Main file path: streamlit_app_full.py (Full 36 variables, multi-round).
